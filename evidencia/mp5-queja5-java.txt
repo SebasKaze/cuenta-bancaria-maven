@@ -1,0 +1,2 @@
+Error: no se ha encontrado o cargado la clase principal com.academia.banco.Aplicacion
+Causado por: java.lang.ClassNotFoundException: com.academia.banco.Aplicacion
